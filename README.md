@@ -12,4 +12,6 @@
 <a href="https://github.com/Shubham3023/Machine_Learning/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Shubham3023/Machine_Learning?color=2b9348"></a>
 <a href="https://github.com/Shubham3023/Machine_Learning/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Shubham3023/Machine_Learning?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Machine Learning Repo" src="https://gfycat.com/ashamedweightydachshund"> </img>
+<img alt="Machine Learning Repo" src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV"> </img>
+  
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">via GIPHY</a></p>
