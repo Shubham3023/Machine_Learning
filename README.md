@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning Repo
+<h1 align="center">Machine Learning Repository
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <!-- <img src="http://hits.dwyl.com/Shubham3023/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
@@ -12,6 +12,28 @@
 <a href="https://github.com/Shubham3023/Machine_Learning/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Shubham3023/Machine_Learning?color=2b9348"></a>
 <a href="https://github.com/Shubham3023/Machine_Learning/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Shubham3023/Machine_Learning?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Machine Learning Repo" src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV"> </img>
+<img alt="Machine Learning Repo" src="https://github.com/Shubham3023/Machine_Learning/blob/main/ML.jpg"> </img>
+</div>
   
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">via GIPHY</a></p>
+---
+
+### :man_technologist: About This Repo :
+ 
+- I am learning Machine learning concepts.
+- I am posting the Implementation of ML concept here for the Community.
+- Each post includes complete EDA, FE and ML Model and Model training on dataset.
+- I also upload dataset files or link so that others can also practise.
+
+---
+  
+ ### Contents 🚀
+ - [Linear Regression Algerian Forrest Fire Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Algerian%20Forrest%20Fire%20Dataset)
+ - [Linear Regression, SVR on House Power Consumption Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Linear%20Regression%2C%20SVR%20on%20House%20Power%20Consumption)
+ - [Logistic Regression Algerian Forest Fire Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%20Algerian%20Forest%20Fire)
+ - [Logistic Regression Breast Cancer Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%20Breast%20Cancer%20Dataset)
+ - [Logistic Regression Diabetes Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%20Diabetes%20Dataset)
+ - [Logistic Regression, SVC on Census Income Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%2C%20SVC%20on%20Census%20Income%20Dataset)
+ - [SVC on wine and SVR on Grad Admission](https://github.com/Shubham3023/Machine_Learning/tree/main/SVC%20on%20wine%20and%20SVR%20on%20Grad%20Admission)
+
+---
+ 
