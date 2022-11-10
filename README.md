@@ -25,6 +25,16 @@
 - I also upload dataset files or link so that others can also practise.
 
 ---
+
+### :hammer_and_wrench: Algorithms :
+
+ - Linear Regression
+ - Ridge, Lasso and Elastic-Net Regression
+ - Logistic Regression
+ - Support Vector Classifier
+ - Support Vector Regressor
+
+---
   
  ### Contents 🚀
  - [Linear Regression Algerian Forrest Fire Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Algerian%20Forrest%20Fire%20Dataset)
