@@ -30,8 +30,9 @@
  - Linear Regression
  - Ridge, Lasso and Elastic-Net Regression
  - Logistic Regression
- - Support Vector Classifier
- - Support Vector Regressor
+ - Support Vector Classifier and Regressor
+ - Decision Tree Classifier and Regressor
+ - Random Forest Classifier and Regressor
 
 ---
   
