@@ -43,7 +43,7 @@
  - [Logistic Regression Diabetes Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%20Diabetes%20Dataset)
  - [Logistic Regression, SVC on Census Income Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%2C%20SVC%20on%20Census%20Income%20Dataset)
  - [SVC on wine and SVR on Grad Admission](https://github.com/Shubham3023/Machine_Learning/tree/main/SVC%20on%20wine%20and%20SVR%20on%20Grad%20Admission)
- - [LR, DTC, SVC and RFC Model on Wine Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/EDA%2C%20FE%20and%20Classification%20Models%20Wine%20Dataset)
+ - [LR, DTC, SVC and RFC Model on Wine Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/LR%2C%20DTC%2C%20SVC%20and%20RFC%20Model%20on%20Wine%20Dataset)
 
 ---
  
