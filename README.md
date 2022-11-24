@@ -45,6 +45,9 @@
  - [Logistic Regression, SVC on Census Income Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Logistic%20Regression%2C%20SVC%20on%20Census%20Income%20Dataset)
  - [SVC on wine and SVR on Grad Admission](https://github.com/Shubham3023/Machine_Learning/tree/main/SVC%20on%20wine%20and%20SVR%20on%20Grad%20Admission)
  - [LR, DTC, SVC and RFC Model on Wine Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/LR%2C%20DTC%2C%20SVC%20and%20RFC%20Model%20on%20Wine%20Dataset)
+ - [Linear Reg, SVR, DTR and RFR for CarDekho Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Linear%20Reg%2C%20SVR%2C%20DTR%20and%20RFR%20for%20CarDekho%20dataset)
+ - [Ten Classification Model on Census Income Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Ten%20Classification%20Model%20on%20Census%20Income%20Dataset)
+ - [Thirteen Regression Models on House Power Consumption Dataset](https://github.com/Shubham3023/Machine_Learning/tree/main/Thirteen%20Regression%20Models%20on%20%20House%20Power%20Consumption%20Dataset)
 
 ---
  
