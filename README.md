@@ -33,6 +33,10 @@
  - Support Vector Classifier and Regressor
  - Decision Tree Classifier and Regressor
  - Random Forest Classifier and Regressor
+ - Gradient Boost Classifier and Regressor
+ - XgBoost Classifier and Regressor
+ - Bagging Classifier and Regressor
+ - Voting Classifier
 
 ---
   
