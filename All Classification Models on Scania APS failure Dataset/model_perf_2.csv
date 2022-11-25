@@ -1,0 +1,10 @@
+,Model,Accuracy,Precision,Recall,Roc_Auc Score
+0,Random Forest Classifier,0.98242,0.55932,0.27887,0.63734
+1,AdaBoost Classifier,0.98168,0.62963,0.04789,0.52368
+2,Extra Tree Classifier,0.98137,0.50262,0.27042,0.63266
+3,Logistic Regression,0.98132,0.0,0.0,0.5
+4,Support Vector Classifier,0.98132,0.0,0.0,0.5
+5,Bagging Classifier,0.98132,0.0,0.0,0.5
+6,XGBoost Classifier,0.98126,0.42857,0.00845,0.50412
+7,GradientBoost Classifier,0.98111,0.44737,0.04789,0.52338
+8,Decision Tree Classifier,0.97558,0.34648,0.34648,0.66702
