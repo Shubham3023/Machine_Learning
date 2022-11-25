@@ -37,6 +37,7 @@
  - XgBoost Classifier and Regressor
  - Bagging Classifier and Regressor
  - Voting Classifier
+ - Principal Component Analysis
 
 ---
   
