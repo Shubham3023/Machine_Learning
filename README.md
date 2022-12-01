@@ -11,6 +11,8 @@
 <a href="https://github.com/Shubham3023/Machine_Learning/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Shubham3023/Machine_Learning?color=2b9348"></a>
 <a href="https://github.com/Shubham3023/Machine_Learning/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Shubham3023/Machine_Learning?color=2b9348" alt="License Badge"/></a>
 
+<img alt="Machine Learning Repo" src="https://lnkd.in/gDeJ3fme"> </img>
+  
 <img alt="Machine Learning Repo" src="https://github.com/Shubham3023/Machine_Learning/blob/main/ML.jpg"> </img>
 </div>
   
